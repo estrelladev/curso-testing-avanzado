@@ -1,0 +1,22 @@
+{
+  "name": "curso-testing-avanzado",
+  "version": "1.0.0",
+  "description": "clases de testing avanzado",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estrelladev/curso-testing-avanzado.git"
+  },
+  "author": "estrelladev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estrelladev/curso-testing-avanzado/issues"
+  },
+  "homepage": "https://github.com/estrelladev/curso-testing-avanzado#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
