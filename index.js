@@ -1,4 +1,5 @@
 // index.js
+console.log("Goodbye World");
 function sumar(a, b) {
   return a + b;
 }
